@@ -1,6 +1,7 @@
 {
   "rewrites": [
-    { "source": "events", "destination": "events.html" }
+    { "source": "/(.*)", "destination": "/$1.html" }
   ]
 }
+
   
