@@ -1,9 +1,6 @@
 {
-    "rewrites": [
-      {
-        "source": "/:path*.html",
-        "destination": "/:path*"
-      }
-    ]
-  }
+  "rewrites": [
+    { "source": "/events", "destination": "/events.html" }
+  ]
+}
   
